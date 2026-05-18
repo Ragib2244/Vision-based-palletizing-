@@ -24,3 +24,5 @@ Enables:
 -Vision Integration
 -TCP/IP communication with Vision Studio
 -Real-time object detection input
+
+[Watch Demo Video](https://drive.google.com/file/d/1i9XuTb-Aes7ArLrCBOfWYngt4DybhQha/view?usp=sharing)
