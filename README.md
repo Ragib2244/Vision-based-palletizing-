@@ -26,4 +26,4 @@ Enables:
 -Real-time object detection input
 
 [Watch Demo Video](https://drive.google.com/file/d/1i9XuTb-Aes7ArLrCBOfWYngt4DybhQha/view?usp=sharing)
-[Vision Studio Flowchart](/Dobot_Vision_Studio.jpg)
+[Vision Studio Flowchart](https://drive.google.com/file/d/15INFzKkSDSo_fXLugbbcuPBXmfqyt09q/view?usp=sharing)
